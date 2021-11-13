@@ -1,6 +1,6 @@
 ### Orthographic Transliteration for Kabyle Speech Recognition
 
-This repo contains code to evaluate the results of the paper "Orthographic Translateration for Kabyle Speech Recognition" accepted to ICNLSP 2021.
+This repo contains code to evaluate the results of the paper "Orthographic Translateration for Kabyle Speech Recognition" accepted to (ICNLSP 2021)[http://icnlsp.org/icnlsp2021/].
 
 Abstract:
 Training on graphemes alone without phonemes simplifies the speech-to-text pipeline. However, models respond differently to training on graphemes of different writing systems. We investigate the impact of differences between Latin and Tifinagh orthographies on automatic speech recognition quality on a Kabyle Berber speech corpus. 
