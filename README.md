@@ -1,4 +1,5 @@
 ### Orthographic Transliteration for Kabyle Speech Recognition
+Authors: Chris Haberland and Ni Lao
 
 This repo contains code to evaluate the results of the paper "Orthographic Translateration for Kabyle Speech Recognition" accepted to [ICNLSP 2021](http://icnlsp.org/icnlsp2021/).
 
